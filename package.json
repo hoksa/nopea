@@ -1,0 +1,12 @@
+{
+  "name": "hoksa-startingpoint",
+  "version": "0.0.1",
+  "description": "Personal boilerplate to get quickly up and running with frontend work",
+  "author": "Hannu Oksa <hannu.oksa@gmail.com>",
+  "devDependencies": {
+    "browser-sync": "^2.2.4",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-ruby-sass": "^1.0.0-alpha.3"
+  }
+}
