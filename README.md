@@ -1,2 +1,2 @@
-# startingpoint
-Personal boilerplate to get quickly up and running with frontend work
+# Nopea
+Boilerplate to get quickly up and running with prototyping frontend work.
