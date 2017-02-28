@@ -1,7 +1,7 @@
 # Nopea
 Boilerplate to get quickly up and running with prototyping frontend work.
 
-http://i61.tinypic.com/1z2es2a.jpg
+![Be quick about it](http://i61.tinypic.com/1z2es2a.jpg)
 
 ## Install
 
