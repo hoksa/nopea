@@ -1,8 +1,12 @@
 {
-  "name": "hoksa-nopea",
+  "name": "nopea",
   "version": "0.0.1",
   "description": "Boilerplate to get quickly up and running with prototyping frontend work.",
   "author": "Hannu Oksa <hannu.oksa@gmail.com>",
   "devDependencies": {
+    "autoprefixer": "^6.7.5",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.3.0",
+    "precss": "^1.4.0"
   }
 }
