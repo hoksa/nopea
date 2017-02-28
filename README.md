@@ -1,6 +1,8 @@
 # Nopea
 Boilerplate to get quickly up and running with prototyping frontend work.
 
+http://i61.tinypic.com/1z2es2a.jpg
+
 ## Install
 
 1. [Download the package](https://github.com/hoksa/nopea/archive/master.zip) **or** clone the repository:
