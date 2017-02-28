@@ -1,0 +1,12 @@
+{
+  "name": "nopea",
+  "description": "Boilerplate to get quickly up and running with prototyping frontend work.",
+  "authors": [
+    "Hannu Oksa <hannu.oksa@gmail.com>"
+  ],
+  "homepage": "https://github.com/hoksa/nopea",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
