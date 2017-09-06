@@ -1,3 +1,7 @@
+:root {
+  --link-color: #f33;
+}
+
 body {
   display: flex;
   align-items: center;
@@ -11,3 +15,12 @@ body {
 div {
   text-align: center;
 }
+
+a {
+  color: var(--link-color);
+
+}
+
+  a:hover {
+    color: color(var(--link-color) blackness(30%));
+  }
