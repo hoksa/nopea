@@ -8,10 +8,8 @@ Boilerplate to get quickly up and running with prototyping frontend work.
 1. [Download the package](https://github.com/hoksa/nopea/archive/master.zip) **or** clone the repository:
 
 	```
-	git clone --bare git@github.com:hoksa/nopea.git
+	git clone git@github.com:hoksa/nopea.git
 	```
-
-	The `--bare` allows you to make an independent copy of the repository without tracking the original master.
 
 2. Install dependencies:
 
