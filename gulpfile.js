@@ -1,13 +1,10 @@
 var gulp = require('gulp');
 var postcss = require('gulp-postcss');
-var autoprefixer = require('autoprefixer');
 var cssnext = require('postcss-cssnext');
-var precss = require('precss');
 var browserSync = require('browser-sync');
 
 gulp.task('css', function() {
   var processors = [
-    autoprefixer(),
     cssnext
   ];
 
