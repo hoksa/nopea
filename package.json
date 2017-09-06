@@ -4,11 +4,12 @@
   "description": "Boilerplate to get quickly up and running with prototyping frontend work.",
   "author": "Hannu Oksa <hannu.oksa@gmail.com>",
   "devDependencies": {
-    "autoprefixer": "^6.7.5",
+    "autoprefixer": "^6.7.7",
     "bower": "^1.8.0",
-    "browser-sync": "^2.18.8",
+    "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
-    "gulp-postcss": "^6.3.0",
-    "precss": "^1.4.0"
-  }
+    "gulp-postcss": "^7.0.0",
+    "postcss-cssnext": "^3.0.2"
+  },
+  "dependencies": {}
 }
