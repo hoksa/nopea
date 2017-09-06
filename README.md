@@ -31,9 +31,8 @@ This will start a development server that will listen to any files and automatic
 
 ## CSS
 
-This boilerplate is barebones by design, however it does come with a few CSS processors to get up and running quickly.
+This boilerplate is barebones by design, however it does come with [PostCSS-cssnext](http://cssnext.io/) included. The plugin allows you to safely use latest CSS syntax safely, for example automatic vendor prefixing and storing commonly used values to variables, and much more.
 
-- [Autoprefixer](https://github.com/postcss/autoprefixer) allows you to write your CSS rules without vendor prefixes.
-- [PreCSS](https://github.com/jonathantneal/precss) allows you to use Sass-like markup in your CSS files, such as variables and mixins.
+For more information [check the plugin website](http://cssnext.io/).
 
 **Important!** Make sure you write and/or include your styles in `src/precss/styles.css`. This is the source file the processors use for compiling.
