@@ -1,11 +1,11 @@
 var gulp = require('gulp');
 var postcss = require('gulp-postcss');
-var cssnext = require('postcss-cssnext');
+var postcssPresetEnv = require('postcss-preset-env');
 var browserSync = require('browser-sync');
 
 gulp.task('css', function() {
   var processors = [
-    cssnext
+    postcssPresetEnv
   ];
 
   return gulp.src('./src/precss/styles.css')

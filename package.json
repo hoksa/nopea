@@ -8,7 +8,6 @@
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
     "gulp-postcss": "^7.0.0",
-    "postcss-cssnext": "^3.0.2"
-  },
-  "dependencies": {}
+    "postcss-preset-env": "^6.2.0"
+  }
 }
