@@ -14,7 +14,7 @@ Boilerplate to get quickly up and running with prototyping frontend work.
 2. Install dependencies:
 
 	```
-	npm install
+	yarn
 	```
 
 ## Usage
