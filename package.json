@@ -7,7 +7,7 @@
     "autoprefixer": "^9.2.1",
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
-    "gulp-postcss": "^7.0.0",
+    "gulp-postcss": "^8.0.0",
     "postcss-preset-env": "^6.2.0"
   }
 }
