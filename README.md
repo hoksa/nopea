@@ -29,8 +29,8 @@ This will start a development server that will listen to any files and automatic
 
 ## CSS
 
-This boilerplate is barebones by design, however it does come with [PostCSS-cssnext](http://cssnext.io/) included. The plugin allows you to safely use latest CSS syntax safely, for example automatic vendor prefixing and storing commonly used values to variables, and much more.
+This boilerplate is barebones by design, however it does come with [postcss-preset-env](https://preset-env.cssdb.org/) included. The plugin allows you to safely use latest CSS syntax safely, for example automatic vendor prefixing and storing commonly used values to variables, and much more.
 
-For more information [check the plugin website](http://cssnext.io/).
+For more information [check the plugin website](https://preset-env.cssdb.org/).
 
 **Important!** Make sure you write and/or include your styles in `src/precss/styles.css`. This is the source file the processors use for compiling.
